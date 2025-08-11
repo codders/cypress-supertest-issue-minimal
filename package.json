@@ -1,0 +1,15 @@
+{
+  "name": "cypress-supertest-issue-minimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.4",
+    "supertest": "^6.2.3"
+  }
+}
